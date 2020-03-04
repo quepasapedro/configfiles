@@ -23,4 +23,3 @@ export KNOWLEDGE_REPO='~/repos/knowledge'
 #export PS1="\e[38;5;045m\W > \e[38;5;046m"
 export PS1="\[\e[38;5;045m\]\W > \[\e[38;5;046m\]"
 export SQL_REPO=/Users/peterking/repos/SQL/
-export ITERABLE_API_KEY=a64c9b888eeb4f2a95fe0323f60577fa
